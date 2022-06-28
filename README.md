@@ -39,3 +39,7 @@
 ## 06.学历要求
 
 ![education](Rplot06_education.png)
+
+## Tableu Version
+
+![](TechManaClip.mp4)
