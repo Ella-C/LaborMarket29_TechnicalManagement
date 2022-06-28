@@ -40,6 +40,6 @@
 
 ![education](Rplot06_education.png)
 
-## Tableu Version
+## Tableau Version
 
-![](TechManaClip.mp4)
+![Tech Mana](TechManaClip.mp4)
